@@ -1,0 +1,20 @@
+.title-font {
+    font-family: 'Titan One', cursive;
+    color: rgb(214, 84, 84);
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: rgb(230, 170, 74);
+}
+
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
